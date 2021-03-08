@@ -8,7 +8,10 @@ Web uygulama güvenliğine dair içerikler
 * [Mass Assignment Zafiyeti](https://gelecegiyazanlar.turkcell.com.tr/blog/mass-assignment-zafiyeti-ve-uygulamalari)
 * [Mass Assignment Zafiyetinin Sömürülmesi](https://gelecegiyazanlar.turkcell.com.tr/blog/mass-assignment-zafiyetinin-somurulmesi)
 * [OWASP API Güvenliği Top 10](https://haktanemik.medium.com/owasp-api-g%C3%BCvenli%C4%9Fi-top-10-5f3f172fce10)
+* [HTTP Güvenlik Headerları](https://www.netsparker.com.tr/blog/web-guvenligi/http-guvenlik-headerlari/)
 
+### Burp Suite
+* [Burp Suite İpuçları: Eklentiler](https://haktanemik.medium.com/burp-suite-i%CC%87pu%C3%A7lar%C4%B1-eklentiler-b477471da82b)
 ### Güvenli Kod Geliştirme Uygulamaları
   * [Bölüm 1](https://haktanemik.medium.com/g%C3%BCvenli-kod-geli%C5%9Ftirme-uygulamalar%C4%B1-b%C3%B6l%C3%BCm-1-b44144089f46)
   * [Bölüm 2](https://haktanemik.medium.com/g%C3%BCvenli-kod-geli%C5%9Ftirme-uygulamalar%C4%B1-b%C3%B6l%C3%BCm-2-30b2c6b3ff7a)
