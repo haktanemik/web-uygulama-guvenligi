@@ -12,6 +12,16 @@ Web uygulama güvenliğine dair içerikler
 
 ### Burp Suite
 * [Burp Suite İpuçları: Eklentiler](https://haktanemik.medium.com/burp-suite-i%CC%87pu%C3%A7lar%C4%B1-eklentiler-b477471da82b)
+
 ### Güvenli Kod Geliştirme Uygulamaları
   * [Bölüm 1](https://haktanemik.medium.com/g%C3%BCvenli-kod-geli%C5%9Ftirme-uygulamalar%C4%B1-b%C3%B6l%C3%BCm-1-b44144089f46)
   * [Bölüm 2](https://haktanemik.medium.com/g%C3%BCvenli-kod-geli%C5%9Ftirme-uygulamalar%C4%B1-b%C3%B6l%C3%BCm-2-30b2c6b3ff7a)
+
+### Lab Ortamları
+* [Web Security Academy](https://portswigger.net/web-security/all-labs)
+* [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+* [Damn Vulnerable Web Application (DVWA)](https://dvwa.co.uk/)
+* [Web For Pentester](https://www.vulnhub.com/entry/pentester-lab-web-for-pentester,71/)
+* [Web For Pentester II](https://www.vulnhub.com/entry/pentester-lab-web-for-pentester-ii,68/)
+* [bWAPP](http://www.itsecgames.com/)
+* [XSS game](https://xss-game.appspot.com/)
