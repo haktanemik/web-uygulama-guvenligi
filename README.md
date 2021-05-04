@@ -12,6 +12,7 @@ Web uygulama güvenliğine dair içerikler
 * [HTTP Güvenlik Headerları](https://www.netsparker.com.tr/blog/web-guvenligi/http-guvenlik-headerlari/)
 
 ### Burp Suite
+* [Burp Suite: Proxy Yapılandırması](https://gelecegiyazanlar.turkcell.com.tr/blog/burp-suite-proxy-yapilandirmasi)
 * [Burp Suite İpuçları: Eklentiler](https://haktanemik.medium.com/burp-suite-i%CC%87pu%C3%A7lar%C4%B1-eklentiler-b477471da82b)
 
 ### Güvenli Kod Geliştirme Uygulamaları
