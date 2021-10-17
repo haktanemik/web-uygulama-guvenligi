@@ -9,6 +9,7 @@ Web uygulama güvenliğine dair içerikler
 * [Mass Assignment Zafiyeti](https://gelecegiyazanlar.turkcell.com.tr/blog/mass-assignment-zafiyeti-ve-uygulamalari)
 * [Mass Assignment Zafiyetinin Sömürülmesi](https://gelecegiyazanlar.turkcell.com.tr/blog/mass-assignment-zafiyetinin-somurulmesi)
 * [Host Header Injection Zafiyeti](https://gelecegiyazanlar.turkcell.com.tr/blog/host-header-injection-zafiyeti)
+* [Insecure Deserialization Saldırıları](https://gelecegiyazanlar.turkcell.com.tr/blog/insecure-deserialization-saldirilari)
 * [OWASP API Güvenliği Top 10](https://haktanemik.medium.com/owasp-api-g%C3%BCvenli%C4%9Fi-top-10-5f3f172fce10)
 * [HTTP Güvenlik Headerları](https://www.netsparker.com.tr/blog/web-guvenligi/http-guvenlik-headerlari/)
 
