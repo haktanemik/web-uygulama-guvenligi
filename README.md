@@ -22,6 +22,9 @@ Web uygulama güvenliğine dair içerikler
   * [Bölüm 1](https://haktanemik.medium.com/g%C3%BCvenli-kod-geli%C5%9Ftirme-uygulamalar%C4%B1-b%C3%B6l%C3%BCm-1-b44144089f46)
   * [Bölüm 2](https://haktanemik.medium.com/g%C3%BCvenli-kod-geli%C5%9Ftirme-uygulamalar%C4%B1-b%C3%B6l%C3%BCm-2-30b2c6b3ff7a)
 
+### Web Security Serisi /@mdisec
+[Web Security & Hacking](https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT)
+
 ### Lab Ortamları
 * [Web Security Academy](https://portswigger.net/web-security/all-labs)
 * [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
