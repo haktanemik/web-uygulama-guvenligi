@@ -28,6 +28,7 @@ Web uygulama güvenliğine dair içerikler
 ### Lab Ortamları
 * [Web Security Academy](https://portswigger.net/web-security/all-labs)
 * [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+* [Kontra - Application Security Training](https://application.security/)
 * [Damn Vulnerable Web Application (DVWA)](https://dvwa.co.uk/)
 * [Web For Pentester](https://www.vulnhub.com/entry/pentester-lab-web-for-pentester,71/)
 * [Web For Pentester II](https://www.vulnhub.com/entry/pentester-lab-web-for-pentester-ii,68/)
