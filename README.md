@@ -27,6 +27,10 @@ Web uygulama güvenliğine dair içerikler
 ### Web Security Serisi /@mdisec
 [Web Security & Hacking](https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT)
 
+### Sunumlar
+* [Siber Güvenlik Yaz Kampı 2022 - Temel Web Uygulama Güvenliği](https://github.com/haktanemik/web-uygulama-guvenligi/tree/main/Sunumlar/Temel%20Web%20Uygulama%20G%C3%BCvenli%C4%9Fi%20-%20Siber%20G%C3%BCvenlik%20Yaz%20Kamp%C4%B1%202022) /w [@0x4n1l](https://twitter.com/0x4n1l)
+
+
 ### Lab Ortamları
 * [Web Security Academy](https://portswigger.net/web-security/all-labs)
 * [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
