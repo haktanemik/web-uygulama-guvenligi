@@ -31,12 +31,19 @@ Web uygulama güvenliğine dair içerikler
 ### Sunumlar
 * [Siber Güvenlik Yaz Kampı 2022 - Temel Web Uygulama Güvenliği](https://github.com/haktanemik/web-uygulama-guvenligi/tree/main/Sunumlar/Temel%20Web%20Uygulama%20G%C3%BCvenli%C4%9Fi%20-%20Siber%20G%C3%BCvenlik%20Yaz%20Kamp%C4%B1%202022) /w [@0x4n1l](https://twitter.com/0x4n1l)
 
+### Zafiyetli Kod Blokları
+* [YesWeHack - Vulnerable Code Snippets](https://github.com/yeswehack/vulnerable-code-snippets)
+* [Vulnerable Code Snippets](https://github.com/snoopysecurity/Vulnerable-Code-Snippets)
+* [Secure Coding Dojo](https://owasp.org/SecureCodingDojo/codereview101/)
 
 ### Lab Ortamları
 * [Web Security Academy](https://portswigger.net/web-security/all-labs)
 * [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 * [Kontra - Application Security Training](https://application.security/)
 * [Damn Vulnerable Web Application (DVWA)](https://dvwa.co.uk/)
+* [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
+* [Vulnerable OAuth 2.0 Applications](https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications)
+* [Damn Vulnerable NodeJS Application](https://github.com/appsecco/dvna)
 * [Web For Pentester](https://www.vulnhub.com/entry/pentester-lab-web-for-pentester,71/)
 * [Web For Pentester II](https://www.vulnhub.com/entry/pentester-lab-web-for-pentester-ii,68/)
 * [bWAPP](http://www.itsecgames.com/)
