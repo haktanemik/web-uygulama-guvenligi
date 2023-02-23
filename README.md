@@ -13,6 +13,8 @@ Web uygulama güvenliğine dair içerikler
 * [Server Side Template Injection (SSTI)](https://gelecegiyazanlar.turkcell.com.tr/blog/server-side-template-injection-ssti)
 * [Insecure Deserialization Saldırıları](https://gelecegiyazanlar.turkcell.com.tr/blog/insecure-deserialization-saldirilari)
 * [OWASP API Güvenliği Top 10](https://haktanemik.medium.com/owasp-api-g%C3%BCvenli%C4%9Fi-top-10-5f3f172fce10)
+* [Güvenli Kod Geliştirme Kitapçığı](https://turkcelloffensivesecurity.gitbook.io/guvenli-kod-gelistirme-kitapcigi/)
+* [HTTP Güvenlik Başlıkları](https://turkcelloffensivesecurity.gitbook.io/http-guvenlik-basliklari)
 
 ### Burp Suite
 * [Burp Suite: Proxy Yapılandırması](https://gelecegiyazanlar.turkcell.com.tr/blog/burp-suite-proxy-yapilandirmasi)
@@ -21,12 +23,9 @@ Web uygulama güvenliğine dair içerikler
 ### Güvenli Kod Geliştirme Uygulamaları
   * [Bölüm 1](https://haktanemik.medium.com/g%C3%BCvenli-kod-geli%C5%9Ftirme-uygulamalar%C4%B1-b%C3%B6l%C3%BCm-1-b44144089f46)
   * [Bölüm 2](https://haktanemik.medium.com/g%C3%BCvenli-kod-geli%C5%9Ftirme-uygulamalar%C4%B1-b%C3%B6l%C3%BCm-2-30b2c6b3ff7a)
- 
- ### HTTP Güvenlik Başlıkları
- [HTTP Güvenlik Başlıkları](https://turkcelloffensivesecurity.gitbook.io/http-guvenlik-basliklari)
-
+  
 ### Web Security Serisi /@mdisec
-[Web Security & Hacking](https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT)
+* [Web Security & Hacking](https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT)
 
 ### Sunumlar
 * [Siber Güvenlik Yaz Kampı 2022 - Temel Web Uygulama Güvenliği](https://github.com/haktanemik/web-uygulama-guvenligi/tree/main/Sunumlar/Temel%20Web%20Uygulama%20G%C3%BCvenli%C4%9Fi%20-%20Siber%20G%C3%BCvenlik%20Yaz%20Kamp%C4%B1%202022) /w [@0x4n1l](https://twitter.com/0x4n1l)
