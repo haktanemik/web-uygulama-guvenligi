@@ -28,7 +28,7 @@ Web uygulama güvenliğine dair içerikler
 * [Web Security & Hacking](https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT)
 
 ### Sunumlar
-* [Siber Güvenlik Yaz Kampı 2022 - Temel Web Uygulama Güvenliği](https://github.com/haktanemik/web-uygulama-guvenligi/tree/main/Sunumlar/Temel%20Web%20Uygulama%20G%C3%BCvenli%C4%9Fi%20-%20Siber%20G%C3%BCvenlik%20Yaz%20Kamp%C4%B1%202022) /w [@0x4n1l](https://twitter.com/0x4n1l)
+* [Siber Güvenlik Yaz Kampı 2024 - Web Uygulama Güvenliği ve Bug Bounty](https://github.com/haktanemik/web-uygulama-guvenligi/tree/main/Sunumlar/Web%20Uygulama%20G%C3%BCvenli%C4%9Fi%20ve%20Bug%20Bounty%20-%20Siber%20G%C3%BCvenlik%20Yaz%20Kamp%C4%B1%202024) /w [@0x4n1l](https://twitter.com/0x4n1l)
 
 ### Zafiyetli Kod Blokları
 * [YesWeHack - Vulnerable Code Snippets](https://github.com/yeswehack/vulnerable-code-snippets)
